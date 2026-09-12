@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "left">
   <a href = "https://github.com/Danoni631/WebArchy">
     <img src = "wa_logo.png" alt = "Logo" width = "300" height = "300">
   </a>
