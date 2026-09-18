@@ -13,6 +13,7 @@ typedef float FLOAT;
 typedef bool BOOL;
 
 #define VOID void
+#define CONST const
 
 typedef BYTE* LPBYTE;
 typedef WORD* LPWORD;
